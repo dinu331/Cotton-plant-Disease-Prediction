@@ -1,1 +1,1 @@
-# Cotton-plant-and-leaf-Disease-Prediction
+# Cotton-plant-Disease-Prediction
